@@ -1,2 +1,2 @@
 # Class-Server
-Information.
+Discord
