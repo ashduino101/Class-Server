@@ -1,2 +1,2 @@
 # Class-Server
-Discord
+Discord Webhook
